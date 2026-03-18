@@ -1,6 +1,11 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "1.3.1",
-  "downloadUrl": "https://www.ilanzou.com/s/oybMDQXE",
-  "changelog": "- 修复网易云同步的歌单有些qq音乐音源播放不了"
+  "latestVersionCode": 14,
+  "latestVersionName": "1.4.0",
+  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.4.0/app-release-unsigned.apk",
+  "sha256": "a68633ec2108b64786acc8fc740263b3694025ec98abddbd10c1e87c3298f304",
+  "fileSizeBytes": 38743283,
+  "changelog": "自动构建发布：v1.4.0",
+  "isForceUpdate": false,
+  "minSupportedVersionCode": 0,
+  "publishedAt": "2026-03-18T13:23:39Z"
 }
