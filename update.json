@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "1.4.0",
-  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.4.0/app-release-unsigned.apk",
-  "sha256": "a68633ec2108b64786acc8fc740263b3694025ec98abddbd10c1e87c3298f304",
-  "fileSizeBytes": 38743283,
-  "changelog": "自动构建发布：v1.4.0",
+  "latestVersionCode": 15,
+  "latestVersionName": "1.5.0",
+  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.5.0/app-release.apk",
+  "sha256": "35748ee948949cfc166c06fd6601436508108fae15a273c75a40e9ccfc5e7c69",
+  "fileSizeBytes": 38755571,
+  "changelog": "自动构建发布：v1.5.0",
   "isForceUpdate": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-03-18T13:23:39Z"
+  "publishedAt": "2026-03-18T15:20:43Z"
 }
