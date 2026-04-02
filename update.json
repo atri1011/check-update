@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "1.6.3",
-  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.6.3/app-release.apk",
-  "sha256": "14da09d0ce1af5ac3f8221ee0041ec4a40a442f6d3c82810dea58cb184f2db7f",
-  "fileSizeBytes": 38788363,
-  "changelog": "自动构建发布：v1.6.3",
+  "latestVersionCode": 20,
+  "latestVersionName": "1.7.0",
+  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.7.0/app-release.apk",
+  "sha256": "a7abf2c7eb491548327d284a3dfb0825485e71847586ba7cd2ae698c6a572ac0",
+  "fileSizeBytes": 38804751,
+  "changelog": "自动构建发布：v1.7.0",
   "isForceUpdate": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-03-22T16:35:12Z"
+  "publishedAt": "2026-04-02T07:40:16Z"
 }
