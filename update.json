@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 26,
-  "latestVersionName": "1.9.1",
-  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.9.1/app-release.apk",
-  "sha256": "37c80a0429b7d6abe959cc209cafa0ad1af5dc659ac004a5d414416cffa3fc19",
-  "fileSizeBytes": 43660442,
-  "changelog": "**Full Changelog**: https://github.com/atri1011/music/compare/v1.9.0...v1.9.1",
-  "fullChangelogUrl": "https://github.com/atri1011/music/compare/v1.9.0...v1.9.1",
+  "latestVersionCode": 27,
+  "latestVersionName": "1.9.2",
+  "apkUrl": "https://github.com/atri1011/music/releases/download/v1.9.2/app-release.apk",
+  "sha256": "131075c557e817a48882ff4bfac6c2dd83b0b644968f9e6d63950867256d58c9",
+  "fileSizeBytes": 43676830,
+  "changelog": "**Full Changelog**: https://github.com/atri1011/music/compare/v1.9.1...v1.9.2",
+  "fullChangelogUrl": "https://github.com/atri1011/music/compare/v1.9.1...v1.9.2",
   "isForceUpdate": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-06-10T10:51:45Z"
+  "publishedAt": "2026-06-11T06:09:02Z"
 }
